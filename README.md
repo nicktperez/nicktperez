@@ -4,6 +4,7 @@ IT systems professional with 10+ years of experience across endpoint management,
 
 ## Featured work
 
+- [OrbitLab](https://github.com/nicktperez/OrbitLab) — Native C++20 3D N-body gravity laboratory exploring numerical integration, spatial algorithms, concurrency, GPU compute, deterministic testing, and performance engineering.
 - [MacTrace](https://github.com/nicktperez/MacTrace) — Local-first macOS endpoint activity monitor and investigation dashboard with explainable detection rules.
 - [SIEM Home Lab](https://github.com/nicktperez/siem-home-lab) — Reproducible Elastic Stack lab for log ingestion, detection engineering, alert triage, and incident investigation.
 - [Professional Portfolio](https://nicholastperez.com) — Experience, capabilities, and selected security and IT projects.
@@ -15,10 +16,11 @@ IT systems professional with 10+ years of experience across endpoint management,
 - macOS endpoint visibility
 - Elastic Stack monitoring and investigation workflows
 - Automation that makes IT and security operations easier to understand
+- Native C++ systems, numerical methods, and performance-aware architecture
 
 ## Technologies
 
-Python · Swift · TypeScript · React · FastAPI · Elastic Stack · Docker · Supabase · SQLite
+C++20 · CMake · SDL3 · Dear ImGui · Python · Swift · TypeScript · React · FastAPI · Elastic Stack · Docker · Supabase · SQLite · GitHub Actions
 
 ## Contact
 
