@@ -39,8 +39,6 @@ A reproducible Elastic Stack lab for log ingestion, detection engineering, alert
 ## More public work
 
 - [QuestBond](https://github.com/nicktperez/RollTogether) — Native SwiftUI app for matching D&D players and groups with filters, fit scoring, chat, and Supabase integration.
-- [ListGenie.ai](https://github.com/nicktperez/listgenie-app) — AI-assisted real-estate listing application with authentication, persistence, subscriptions, validation, and automated checks.
-- [AI Resume Tailor](https://github.com/nicktperez/AI-Resume-Builder) — Full-stack resume tailoring application with account limits, Stripe subscriptions, history, and security controls.
 - [Professional Portfolio](https://github.com/nicktperez/My-Website) — Source for [nicholastperez.com](https://nicholastperez.com), presenting my IT, security, automation, and systems work.
 
 ## Toolkit
